@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLibrary", "SharedLibr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyPurrApp.AdminPanel", "PolyPurrApp.AdminPanel\PolyPurrApp.AdminPanel.csproj", "{983CEA09-B3B3-4B09-B46B-599B36418196}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthServer.API", "AuthServer.API\AuthServer.API.csproj", "{23C81CDC-AD93-4000-8078-2516BF1EE60C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{983CEA09-B3B3-4B09-B46B-599B36418196}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{983CEA09-B3B3-4B09-B46B-599B36418196}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{983CEA09-B3B3-4B09-B46B-599B36418196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C81CDC-AD93-4000-8078-2516BF1EE60C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C81CDC-AD93-4000-8078-2516BF1EE60C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C81CDC-AD93-4000-8078-2516BF1EE60C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C81CDC-AD93-4000-8078-2516BF1EE60C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
