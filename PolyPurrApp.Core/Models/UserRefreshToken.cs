@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PolyPurrApp.Core.Models
 {
-    internal class UserRefreshToken
+    public class UserRefreshToken
     {
         public string UserId { get; set; }
         public string Code { get; set; }
